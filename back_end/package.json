@@ -1,0 +1,25 @@
+{
+  "name": "restaurant_management_system_using_a-_chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sangishettisai21-crypto/Restaurant_Management_System_using_a-_Chatbot#readme",
+  "bugs": {
+    "url": "https://github.com/sangishettisai21-crypto/Restaurant_Management_System_using_a-_Chatbot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangishettisai21-crypto/Restaurant_Management_System_using_a-_Chatbot.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.10.2"
+  }
+}
